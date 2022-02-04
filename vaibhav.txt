@@ -1,2 +1,28 @@
-vaibhav bhandigare hiiiii
-pranay patil
+<html>
+<head>
+	<title></title>
+</head>
+
+<body>
+<table>
+<h2>STUDENT INFORMATION</h2>
+<caption>student data</caption>
+<tr>
+	<th>ROLL NO</th>
+	<th>NAME</th>
+	<th>BIRTH DATE</th>
+	<th>ADDRESS</th>
+</tr>
+<tr>
+	<th>1</th>
+	<th>vaibhav</th>
+	<th>30-11-1998</th>
+	<th>walva</th>
+	
+</tr>
+</table>
+
+
+</body>
+
+</html>
